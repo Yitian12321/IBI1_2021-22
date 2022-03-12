@@ -1,0 +1,44 @@
+# Third note on 12/3/21, Yes! With the help of anouncement,I got my token and successfully finished my Practical 4.
+
+# Second note from 9/3/21, I install cygwin another time with configuration of git, but was trapped in git push. What does the word token mean? 
+
+# Note from 8/3/21, I used ZJE server to finish the former 3 sections. But was trapped due to VPN.
+
+
+During the self-driven practical, I met quite a lot difficulties. Firstly, 
+
+I found that my Cygwin didn't have configuration about "nano", so I had to 
+
+use ZJE server to work on this practical. However, I didn't find any problems
+
+until I came to the step of Github. I surprisely found that as soon as I 
+
+linked to VPN, my connection to ZJE server broke. In that case, I had to explore
+
+the local approach to solve that, with a brand new start.
+
+
+
+Similar things happened a lot of times. Sometimes it can be really annoying and 
+
+depressing when I tried countless times and searched for many websites just to 
+
+solve a little error, but still can't solve it. However, with a lot of errors,
+
+I found it quite interesting and inspiring when I finally worked it out. I think 
+
+I quite enjoy the process of learning and applying the knowledge we learnt from
+
+lecture to a actual situation. Furthermore, the process of debug became a very
+
+exciting experience for me.
+
+
+
+Above all, I think not only did we learn how to apply the knowledge and command 
+
+we learnt from lecture, but the practical did improve our ability to anti-pressure
+
+and our self-motivation to get off-class knowledge to solve the problems we met,
+
+thus exploring the Biomedical Informatics better.
