@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer:produce a random integer between 1 and 100
+# Answer:do the loop for 10 times, print the number that the last time produced in a random integer between 1 and 100
 #progress+=1 means valuable"progress=progress+1" for each time
 #we import two packages(or functions) from 2 source.
 
