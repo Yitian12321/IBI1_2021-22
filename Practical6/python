@@ -1,0 +1,37 @@
+#set array "paternal_age"
+paternal_age=np.array([30,35,40,45,50,55,60,65,70,75])
+#set array "chd"
+chd: ndarray=np.array([1.03,1.07,1.11,1.17,1.23,1.32,1.42,1.55,1.72,1.94])
+#import module matplot.pyplot
+import matplotlib.pyplot as plt
+#define list sizes
+sizes = [10,30,50,70,80,110,140,180,220,300]
+#draw scatter plot and change the size and color
+plt.scatter(paternal_age,chd,s=sizes,color=['red'])
+#show the plot
+plt.show()
+
+#set a dictionary
+reflection={'30':1.03,"35":1.07."40":1.11,"45":1.17,"50":1.23,"55":1.32,"60":1.42,"65":1.55,"70":1.72,"75":1.94
+reflection['input']
+
+#define a list marks
+marks=[45,36,86,57,53,92,65,45]
+#draw picture,change the widths and show the box line
+plt.boxplot(marks,widths=0.15,showbox=True)
+#show the plot
+plt.show()
+#caculate the average value
+avg=sum(marks)/len(marks)
+#use if to define and differentiate the result
+if avg >= 60:
+    result=("passed")
+else: result=("didn't pass")
+#print the result
+print('the average soccer is',avg,',',
+      result,'the IBI1 course')
+
+#extra try about draw a bar plot
+number=['homework 1','homework 2','homework 3','homework 4','homework 5','homework 6','homework 7','homework 8']
+plt.bar(number,marks,width=0.5,color=['red','blue','red','blue','red','blue','red','blue'])
+plt.show()
