@@ -1,0 +1,1 @@
+Visualize the change of total cases and total deaths in Canada in a plot.
